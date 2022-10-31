@@ -22,9 +22,9 @@ spec:
         - name: MONGO_DB_HOSTNAME
           value: mongo
         - name: MONGO_INITDB_ROOT_USERNAME
-          value: springapp
+          value: taiwo
         - name: MONGO_INITDB_ROOT_PASSWORD
-          value: mongodb@123      
+          value: taiwo@123      
 ---
 # Node Port Service For SpringApp
 apiVersion: v1
